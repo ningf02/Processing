@@ -1,2 +1,4 @@
 # Processing
-First year processing labs and project CSU11013
+CSU11013 (Programming Project)
+
+1st year labs and projects in processing
