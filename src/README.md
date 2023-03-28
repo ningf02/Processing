@@ -1,3 +1,7 @@
+Exercises and projects throughout 1st year college.
+More details about individual project in each folder.
+
+
 ![Kapture 2023-03-24 at 16 27 36](https://user-images.githubusercontent.com/112631548/227584916-917620b8-0de3-4ae1-aa0d-36a54897c78c.gif)
 ![Kapture 2023-03-24 at 1![Kapture 2023-03-24 at 16 29 59](https://user-images.githubusercontent.com/112631548/227585505-d559e88f-0269-4c62-a694-886daf430d4f.gif)
 6 30 23](https://user-images.githubusercontent.com/112631548/227585479-e9bbdb28-0d3f-434f-b27d-14d5989c8df0.gif)
